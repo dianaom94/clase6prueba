@@ -1,0 +1,114 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: rgb(190, 176, 190);
+}
+.titulo{
+    font-size:50px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    padding-bottom: 3%;
+    
+
+    
+}
+.fondotitulo{
+   
+    height: 60%;
+    padding-top: 150px;
+    margin-left: -2%;
+    margin-right: -10%;
+    width: 103%;
+    background-image: url(../images/purple-black-carbon-fibre-background-260nw-1648338781.jpg);
+}
+.barralateral{
+    margin-left: 20%;
+    margin-top: -180px;
+    padding-right: 80px;
+    padding-top: 4%;
+    
+    
+
+}
+.fondolateral{
+    background: rgba(252, 247, 252, 0.349);
+    margin-left: 75%;
+    width: 310px;
+    height: 250px;
+    border-radius: 3px;
+    padding-bottom: 4%;
+
+}
+h2{
+    margin-top: 10%;
+    margin-right: 29.7%;
+    margin-left: 3%;
+    background: rgba(255, 255, 255, 0.356);
+    border-radius: 4px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+h5{
+    margin-top: 8%;
+    font-size: 40px;
+    color: rgb(126, 49, 126);
+    -webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.267); 
+    padding-top: 4%;
+}
+
+.fondosection{
+    background: rgba(255, 255, 255, 0.418);
+    margin-left: 3%;
+    border-radius: 4px;
+    margin-top: -150px;
+    margin-right: 30%;
+    padding-bottom: 10%;
+}
+h6{
+    font-size: 20px;
+    margin-left: 8%;
+    margin-right: 20%;
+    margin-bottom: 80px;
+    
+}
+.clasection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton1{
+    background: rgb(144, 219, 209);
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    margin-left: 6%;
+    margin-top: 10px; 
+    display: block;
+    text-align: center;
+}
+
+.academia, .quora, .epub, .elejandria{
+    margin-left: 11%;
+    text-align: center;
+
+}
+.botonazul{
+    background-color: rgba(128, 201, 250, 0.685);
+    
+}
+.botonrosa{
+    background-color: rgb(255, 210, 217);
+}
+
+.botonlila{
+    background-color: rgba(136, 70, 136, 0.76);
+}
+a:hover{
+    background: rgb(159, 212, 146);
+    
+}
